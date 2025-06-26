@@ -4,7 +4,7 @@ services:
   bypass-cors-policies:
     image: miorey/bypass-cors-policies
     environment:
-      - SERVER_NAME=https://www.example.com
+      - SERVER_NAME=https://wow.zamimg.com
     volumes:
       - ./storage:/usr/src/app/storage
     ports:
