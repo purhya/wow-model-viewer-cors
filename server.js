@@ -103,6 +103,7 @@ async function tryFixHelmCoverage(url, buffer) {
         55053,
         46976,
         14908,
+        42720,
     ].includes(id)) {
         shouldClear = true
     }
